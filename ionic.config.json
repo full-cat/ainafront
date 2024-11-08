@@ -1,0 +1,7 @@
+{
+  "name": "ainafront",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
