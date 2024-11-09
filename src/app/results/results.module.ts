@@ -9,6 +9,7 @@ import { ResultsPageRoutingModule } from './results-routing.module';
 import { ResultsPage } from './results.page';
 import {SafeHtmlPipe} from "../safe-html.pipe";
 import {TypingComponent} from "../typing/typing.component";
+import {AudioComponent} from "../audio/audio.component";
 
 @NgModule({
   imports: [
@@ -17,7 +18,8 @@ import {TypingComponent} from "../typing/typing.component";
     IonicModule,
     ResultsPageRoutingModule,
     SafeHtmlPipe,
-    TypingComponent
+    TypingComponent,
+    AudioComponent
   ],
   declarations: [ResultsPage]
 })
