@@ -33,15 +33,11 @@ export class ResultsPage {
       this.parseResults(response);
       this.limitResults()
 
-      // add ++++ to all titles
-      this.searchResults = this.searchResults.map((result: any) => {
-        return {
-          ...result,
-          title: '++++' + result.title
-        };
-      });
-
     });
+    this.aiService.queryChatbot(this.searchQuery).subscribe((response: any) => {
+        this.chatbotResponse = response["response"];
+      }
+    );
 
 
   }
@@ -55,7 +51,7 @@ export class ResultsPage {
       return {
         title: result.title,
         description: result.description,
-        url: "http://localhost:5000/proxy?url=" + result.url
+        url: result.url
       };
     });
   }

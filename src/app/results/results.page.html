@@ -29,7 +29,8 @@
       <ion-card style="width: 600px; border-radius: 20px;" *ngFor="let result of searchResults">
         <ion-card-content>
           <ion-label>
-            <h2 [innerHTML]="result.title | safeHtml" style="color: #e32629" (click)="openResult(result.url)"></h2>
+            <h2 [innerHTML]="result.title | safeHtml" style="color: #e32629"
+                (click)="openResult('http://localhost:5000/proxy?url=' + result.url)"></h2>
             <div [innerHTML]="result.description | safeHtml"></div>
             <small class="url" style="color: darkblue">{{ result.url }}</small>
           </ion-label>

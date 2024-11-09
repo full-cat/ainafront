@@ -23,6 +23,7 @@ export class SearchPage {
 
     // after 2 requests are done
     forkJoin([x1, x2]).subscribe(results => {
+      console.log(results[1])
       this.router.navigate(['/results'], {state: {data: results[1], chatbot: results[0], query: this.searchQuery}});
     });
 

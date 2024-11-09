@@ -11,7 +11,7 @@ export class BraveService {
   ) {
   }
 
-  isMock = true;
+  isMock = false;
   url = 'http://localhost:5000';
 
   search(query: string) {
