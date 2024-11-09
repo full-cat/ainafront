@@ -1,0 +1,858 @@
+{
+  "mixed": {
+    "main": [
+      {
+        "all": false,
+        "index": 0,
+        "type": "web"
+      },
+      {
+        "all": false,
+        "index": 1,
+        "type": "web"
+      },
+      {
+        "all": true,
+        "type": "videos"
+      },
+      {
+        "all": false,
+        "index": 2,
+        "type": "web"
+      },
+      {
+        "all": false,
+        "index": 3,
+        "type": "web"
+      },
+      {
+        "all": false,
+        "index": 4,
+        "type": "web"
+      },
+      {
+        "all": false,
+        "index": 5,
+        "type": "web"
+      },
+      {
+        "all": false,
+        "index": 6,
+        "type": "web"
+      },
+      {
+        "all": false,
+        "index": 7,
+        "type": "web"
+      },
+      {
+        "all": false,
+        "index": 8,
+        "type": "web"
+      },
+      {
+        "all": false,
+        "index": 9,
+        "type": "web"
+      },
+      {
+        "all": false,
+        "index": 10,
+        "type": "web"
+      },
+      {
+        "all": false,
+        "index": 11,
+        "type": "web"
+      },
+      {
+        "all": false,
+        "index": 12,
+        "type": "web"
+      },
+      {
+        "all": false,
+        "index": 13,
+        "type": "web"
+      },
+      {
+        "all": false,
+        "index": 14,
+        "type": "web"
+      },
+      {
+        "all": false,
+        "index": 15,
+        "type": "web"
+      },
+      {
+        "all": false,
+        "index": 16,
+        "type": "web"
+      },
+      {
+        "all": false,
+        "index": 17,
+        "type": "web"
+      },
+      {
+        "all": false,
+        "index": 18,
+        "type": "web"
+      },
+      {
+        "all": false,
+        "index": 19,
+        "type": "web"
+      }
+    ],
+    "side": [],
+    "top": [],
+    "type": "mixed"
+  },
+  "query": {
+    "bad_results": false,
+    "city": "",
+    "country": "us",
+    "header_country": "",
+    "is_navigational": true,
+    "is_news_breaking": false,
+    "more_results_available": true,
+    "original": "foo",
+    "postal_code": "",
+    "should_fallback": false,
+    "show_strict_warning": false,
+    "spellcheck_off": true,
+    "state": ""
+  },
+  "type": "search",
+  "videos": {
+    "mutated_by_goggles": false,
+    "results": [
+      {
+        "age": "October 3, 2009",
+        "description": "Watch the official music video for \"Best Of You\" by Foo FightersListen to Foo Fighters: https://FooFighters.lnk.to/listen_YDSubscribe to the official Foo Fig...",
+        "meta_url": {
+          "favicon": "https://imgs.search.brave.com/Wg4wjE5SHAargkzePU3eSLmWgVz84BEZk1SjSglJK_U/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOTkyZTZiMWU3/YzU3Nzc5YjExYzUy/N2VhZTIxOWNlYjM5/ZGVjN2MyZDY4Nzdh/ZDYzMTYxNmI5N2Rk/Y2Q3N2FkNy93d3cu/eW91dHViZS5jb20v",
+          "hostname": "www.youtube.com",
+          "netloc": "youtube.com",
+          "path": "\u203a watch",
+          "scheme": "https"
+        },
+        "page_age": "2009-10-03T20:49:33",
+        "thumbnail": {
+          "original": "https://i.ytimg.com/vi/h_L4Rixya64/maxresdefault.jpg",
+          "src": "https://imgs.search.brave.com/G1Q0jjd2BYLtHLXOvAgxOVR-ZLiV4LLIfzQoRlsG_Iw/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pLnl0/aW1nLmNvbS92aS9o/X0w0Uml4eWE2NC9t/YXhyZXNkZWZhdWx0/LmpwZw"
+        },
+        "title": "Foo Fighters - Best Of You (Official Music Video) - YouTube",
+        "type": "video_result",
+        "url": "https://www.youtube.com/watch?v=h_L4Rixya64",
+        "video": {}
+      },
+      {
+        "age": "June 2, 2011",
+        "description": "Buy Wasting Light here http://bit.ly/ftbVXi Tickets for rock shows here http://www.foofighters.com/us/tour",
+        "meta_url": {
+          "favicon": "https://imgs.search.brave.com/Wg4wjE5SHAargkzePU3eSLmWgVz84BEZk1SjSglJK_U/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOTkyZTZiMWU3/YzU3Nzc5YjExYzUy/N2VhZTIxOWNlYjM5/ZGVjN2MyZDY4Nzdh/ZDYzMTYxNmI5N2Rk/Y2Q3N2FkNy93d3cu/eW91dHViZS5jb20v",
+          "hostname": "www.youtube.com",
+          "netloc": "youtube.com",
+          "path": "\u203a watch",
+          "scheme": "https"
+        },
+        "page_age": "2011-06-02T17:22:24",
+        "thumbnail": {
+          "original": "https://i.ytimg.com/vi/4PkcfQtibmU/maxresdefault.jpg",
+          "src": "https://imgs.search.brave.com/3a8j3TcCBE2XuPRKFMxqD5mCz5Pl3N0ujrFGYidxuLU/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pLnl0/aW1nLmNvbS92aS80/UGtjZlF0aWJtVS9t/YXhyZXNkZWZhdWx0/LmpwZw"
+        },
+        "title": "Foo Fighters. Walk. - YouTube",
+        "type": "video_result",
+        "url": "https://www.youtube.com/watch?v=4PkcfQtibmU",
+        "video": {}
+      },
+      {
+        "age": "October 2, 2009",
+        "description": "Foo Fighters' official music video for 'Everlong'. Click to listen to Foo Fighters on Spotify: http://smarturl.it/FooFSpotify?IQid=F... As featured on Greate...",
+        "meta_url": {
+          "favicon": "https://imgs.search.brave.com/Wg4wjE5SHAargkzePU3eSLmWgVz84BEZk1SjSglJK_U/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOTkyZTZiMWU3/YzU3Nzc5YjExYzUy/N2VhZTIxOWNlYjM5/ZGVjN2MyZDY4Nzdh/ZDYzMTYxNmI5N2Rk/Y2Q3N2FkNy93d3cu/eW91dHViZS5jb20v",
+          "hostname": "www.youtube.com",
+          "netloc": "youtube.com",
+          "path": "\u203a watch",
+          "scheme": "https"
+        },
+        "page_age": "2009-10-02T17:22:24",
+        "thumbnail": {
+          "original": "https://i.ytimg.com/vi/eBG7P-K-r1Y/maxresdefault.jpg",
+          "src": "https://imgs.search.brave.com/EY4v_W5ENl2pWSfPlXEizwoeQ3MZeaDGdcHd1qgrtog/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pLnl0/aW1nLmNvbS92aS9l/Qkc3UC1LLXIxWS9t/YXhyZXNkZWZhdWx0/LmpwZw"
+        },
+        "title": "Foo Fighters - Everlong (Official Music Video) - YouTube",
+        "type": "video_result",
+        "url": "https://www.youtube.com/watch?v=eBG7P-K-r1Y",
+        "video": {}
+      },
+      {
+        "age": "October 3, 2009",
+        "description": "Watch the official music video for \"The Pretender\" by Foo FightersListen to Foo Fighters: https://FooFighters.lnk.to/listen_YDSubscribe to the official Foo F...",
+        "meta_url": {
+          "favicon": "https://imgs.search.brave.com/Wg4wjE5SHAargkzePU3eSLmWgVz84BEZk1SjSglJK_U/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOTkyZTZiMWU3/YzU3Nzc5YjExYzUy/N2VhZTIxOWNlYjM5/ZGVjN2MyZDY4Nzdh/ZDYzMTYxNmI5N2Rk/Y2Q3N2FkNy93d3cu/eW91dHViZS5jb20v",
+          "hostname": "www.youtube.com",
+          "netloc": "youtube.com",
+          "path": "\u203a watch",
+          "scheme": "https"
+        },
+        "page_age": "2009-10-03T04:46:14",
+        "thumbnail": {
+          "original": "https://i.ytimg.com/vi/SBjQ9tuuTJQ/maxresdefault.jpg",
+          "src": "https://imgs.search.brave.com/7ooJZXHIRzZGt88oCLU4CNHaADm920T2FfSHQ2q93w0/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pLnl0/aW1nLmNvbS92aS9T/QmpROXR1dVRKUS9t/YXhyZXNkZWZhdWx0/LmpwZw"
+        },
+        "title": "Foo Fighters - The Pretender - YouTube",
+        "type": "video_result",
+        "url": "https://www.youtube.com/watch?v=SBjQ9tuuTJQ",
+        "video": {}
+      },
+      {
+        "age": "April 14, 2011",
+        "description": "Buy Wasting Light here: http://www.smarturl.it/wastinglight",
+        "meta_url": {
+          "favicon": "https://imgs.search.brave.com/Wg4wjE5SHAargkzePU3eSLmWgVz84BEZk1SjSglJK_U/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOTkyZTZiMWU3/YzU3Nzc5YjExYzUy/N2VhZTIxOWNlYjM5/ZGVjN2MyZDY4Nzdh/ZDYzMTYxNmI5N2Rk/Y2Q3N2FkNy93d3cu/eW91dHViZS5jb20v",
+          "hostname": "www.youtube.com",
+          "netloc": "youtube.com",
+          "path": "\u203a watch",
+          "scheme": "https"
+        },
+        "page_age": "2011-04-14T17:22:24",
+        "thumbnail": {
+          "original": "https://i.ytimg.com/vi/Xnmzins2Uow/maxresdefault.jpg",
+          "src": "https://imgs.search.brave.com/g2s1U5be3-JTPZF6YFaygYHx5NGP9PlVInRNNKGJq6s/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pLnl0/aW1nLmNvbS92aS9Y/bm16aW5zMlVvdy9t/YXhyZXNkZWZhdWx0/LmpwZw"
+        },
+        "title": "Foo Fighters. Wasting Light Live from 606. - YouTube",
+        "type": "video_result",
+        "url": "https://www.youtube.com/watch?v=Xnmzins2Uow",
+        "video": {}
+      }
+    ],
+    "type": "videos"
+  },
+  "web": {
+    "family_friendly": true,
+    "results": [
+      {
+        "age": "April 19, 2023",
+        "description": "Official website of <strong>Foo</strong> Fighters",
+        "family_friendly": true,
+        "is_source_both": false,
+        "is_source_local": false,
+        "language": "en",
+        "meta_url": {
+          "favicon": "https://imgs.search.brave.com/tw1oQIU6NzV5evqxNf6i15cqORcu-Ep20KmC6aB0_-I/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNDc1MjRlODU3/ZGIxNzQ2ZWMxN2Q2/ZWI3ZDQzOTExMDll/N2E4Mzc2MDE2OTk1/MTYyMWMxZGNlN2M0/YWFjZjU2NS9mb29m/aWdodGVycy5jb20v",
+          "hostname": "foofighters.com",
+          "netloc": "foofighters.com",
+          "path": "  \u203a home",
+          "scheme": "https"
+        },
+        "page_age": "2023-04-19T12:02:40",
+        "profile": {
+          "img": "https://imgs.search.brave.com/tw1oQIU6NzV5evqxNf6i15cqORcu-Ep20KmC6aB0_-I/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNDc1MjRlODU3/ZGIxNzQ2ZWMxN2Q2/ZWI3ZDQzOTExMDll/N2E4Mzc2MDE2OTk1/MTYyMWMxZGNlN2M0/YWFjZjU2NS9mb29m/aWdodGVycy5jb20v",
+          "long_name": "foofighters.com",
+          "name": "Foo Fighters",
+          "url": "https://foofighters.com/"
+        },
+        "subtype": "generic",
+        "thumbnail": {
+          "logo": false,
+          "original": "https://foofighters.com/wp-content/uploads/2023/04/foo-fighters-share-card.jpg",
+          "src": "https://imgs.search.brave.com/1DefPGg22qeQilNf7LX7zLPYSzaU01dUIsAkPhDnrMA/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9mb29m/aWdodGVycy5jb20v/d3AtY29udGVudC91/cGxvYWRzLzIwMjMv/MDQvZm9vLWZpZ2h0/ZXJzLXNoYXJlLWNh/cmQuanBn"
+        },
+        "title": "Home - Foo Fighters",
+        "type": "search_result",
+        "url": "https://foofighters.com/"
+      },
+      {
+        "age": "February 4, 2023",
+        "description": "99 votes, 47 comments. What is the origin of the word &quot;<strong>foo</strong>&quot; in the old name used to describe UFOs, &quot;<strong>foo</strong> fighters&quot;? I can&#x27;t find anything to answer\u2026",
+        "family_friendly": true,
+        "is_source_both": false,
+        "is_source_local": false,
+        "language": "en",
+        "meta_url": {
+          "favicon": "https://imgs.search.brave.com/U-eHNCapRHVNWWCVPPMTIvOofZULh0_A_FQKe8xTE4I/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvN2ZiNTU0M2Nj/MTFhZjRiYWViZDlk/MjJiMjBjMzFjMDRk/Y2IzYWI0MGI0MjVk/OGY5NzQzOGQ5NzQ5/NWJhMWI0NC93d3cu/cmVkZGl0LmNvbS8",
+          "hostname": "www.reddit.com",
+          "netloc": "reddit.com",
+          "path": "  \u203a r/etymology  \u203a what is \"foo\"?",
+          "scheme": "https"
+        },
+        "page_age": "2023-02-04T05:48:03",
+        "profile": {
+          "img": "https://imgs.search.brave.com/U-eHNCapRHVNWWCVPPMTIvOofZULh0_A_FQKe8xTE4I/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvN2ZiNTU0M2Nj/MTFhZjRiYWViZDlk/MjJiMjBjMzFjMDRk/Y2IzYWI0MGI0MjVk/OGY5NzQzOGQ5NzQ5/NWJhMWI0NC93d3cu/cmVkZGl0LmNvbS8",
+          "long_name": "reddit.com",
+          "name": "Reddit",
+          "url": "https://www.reddit.com/r/etymology/comments/10to0pz/what_is_foo/"
+        },
+        "subtype": "qa",
+        "thumbnail": {
+          "logo": false,
+          "original": "https://share.redd.it/preview/post/10to0pz",
+          "src": "https://imgs.search.brave.com/k8Nc56Kx0T_vrXfnaxPhWvz4uXO5EKE8L6nx8dLanoQ/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9zaGFy/ZS5yZWRkLml0L3By/ZXZpZXcvcG9zdC8x/MHRvMHB6"
+        },
+        "title": "r/etymology on Reddit: What is \"foo\"?",
+        "type": "search_result",
+        "url": "https://www.reddit.com/r/etymology/comments/10to0pz/what_is_foo/"
+      },
+      {
+        "age": "2 weeks ago",
+        "description": "\u201c<strong>Foo</strong>.\u201d Merriam-Webster.com Dictionary, Merriam-Webster, https://www.merriam-webster.com/dictionary/<strong>foo</strong>. Accessed 4 Nov.",
+        "family_friendly": true,
+        "is_source_both": false,
+        "is_source_local": false,
+        "language": "en",
+        "meta_url": {
+          "favicon": "https://imgs.search.brave.com/bi9FmWof5TzSvP5tKxg_pdJSHXMziocpI7_cq6ov5r0/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNzYwYjQ3N2Jj/NTBhNDkxYTExNjU0/NTFhZDdlMGI0NjJh/Y2M1ODcwOWQwYzc5/YTI2MmZkZjIxMGFk/N2NkZWMzYy93d3cu/bWVycmlhbS13ZWJz/dGVyLmNvbS8",
+          "hostname": "www.merriam-webster.com",
+          "netloc": "merriam-webster.com",
+          "path": "\u203a dictionary  \u203a foo",
+          "scheme": "https"
+        },
+        "page_age": "2024-10-24T07:30:06",
+        "profile": {
+          "img": "https://imgs.search.brave.com/bi9FmWof5TzSvP5tKxg_pdJSHXMziocpI7_cq6ov5r0/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNzYwYjQ3N2Jj/NTBhNDkxYTExNjU0/NTFhZDdlMGI0NjJh/Y2M1ODcwOWQwYzc5/YTI2MmZkZjIxMGFk/N2NkZWMzYy93d3cu/bWVycmlhbS13ZWJz/dGVyLmNvbS8",
+          "long_name": "merriam-webster.com",
+          "name": "Merriam-Webster",
+          "url": "https://www.merriam-webster.com/dictionary/foo"
+        },
+        "subtype": "generic",
+        "thumbnail": {
+          "logo": true,
+          "original": "https://merriam-webster.com/assets/mw/static/social-media-share/mw-logo-245x245@1x.png",
+          "src": "https://imgs.search.brave.com/bm0KAMlQNzmOllIUGR3mEs5IHZ5Vza39PqaM9cLhyDc/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9tZXJy/aWFtLXdlYnN0ZXIu/Y29tL2Fzc2V0cy9t/dy9zdGF0aWMvc29j/aWFsLW1lZGlhLXNo/YXJlL213LWxvZ28t/MjQ1eDI0NUAxeC5w/bmc"
+        },
+        "title": "Foo Definition & Meaning - Merriam-Webster",
+        "type": "search_result",
+        "url": "https://www.merriam-webster.com/dictionary/foo"
+      },
+      {
+        "age": "1 week ago",
+        "deep_results": {
+          "buttons": [
+            {
+              "title": "History",
+              "type": "button_result",
+              "url": "https://en.wikipedia.org/wiki/Foo_Fighters#History"
+            },
+            {
+              "title": "Musical style and legacy",
+              "type": "button_result",
+              "url": "https://en.wikipedia.org/wiki/Foo_Fighters#Musical_style_and_legacy"
+            },
+            {
+              "title": "Band members",
+              "type": "button_result",
+              "url": "https://en.wikipedia.org/wiki/Foo_Fighters#Band_members"
+            },
+            {
+              "title": "Discography",
+              "type": "button_result",
+              "url": "https://en.wikipedia.org/wiki/Foo_Fighters#Discography"
+            },
+            {
+              "title": "Tours",
+              "type": "button_result",
+              "url": "https://en.wikipedia.org/wiki/Foo_Fighters#Tours"
+            },
+            {
+              "title": "Awards and nominations",
+              "type": "button_result",
+              "url": "https://en.wikipedia.org/wiki/Foo_Fighters#Awards_and_nominations"
+            }
+          ]
+        },
+        "description": "The <strong>Foo</strong> Fighters are an American rock band formed in Seattle in 1994. Founded as a one-man project by former Nirvana drummer Dave Grohl, the lineup now consists of Grohl (lead vocals, guitar), Nate Mendel (bass), Chris Shiflett and Pat Smear (guitars), Rami Jaffee (keyboards), and Josh Freese ...",
+        "family_friendly": true,
+        "is_source_both": false,
+        "is_source_local": false,
+        "language": "en",
+        "meta_url": {
+          "favicon": "https://imgs.search.brave.com/m6XxME4ek8DGIUcEPCqjRoDjf2e54EwL9pQzyzogLYk/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNjQwNGZhZWY0/ZTQ1YWUzYzQ3MDUw/MmMzMGY3NTQ0ZjNj/NDUwMDk5ZTI3MWRk/NWYyNTM4N2UwOTE0/NTI3ZDQzNy9lbi53/aWtpcGVkaWEub3Jn/Lw",
+          "hostname": "en.wikipedia.org",
+          "netloc": "en.wikipedia.org",
+          "path": "\u203a wiki  \u203a Foo_Fighters",
+          "scheme": "https"
+        },
+        "page_age": "2024-11-02T15:26:20",
+        "profile": {
+          "img": "https://imgs.search.brave.com/m6XxME4ek8DGIUcEPCqjRoDjf2e54EwL9pQzyzogLYk/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNjQwNGZhZWY0/ZTQ1YWUzYzQ3MDUw/MmMzMGY3NTQ0ZjNj/NDUwMDk5ZTI3MWRk/NWYyNTM4N2UwOTE0/NTI3ZDQzNy9lbi53/aWtpcGVkaWEub3Jn/Lw",
+          "long_name": "en.wikipedia.org",
+          "name": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Foo_Fighters"
+        },
+        "subtype": "generic",
+        "thumbnail": {
+          "logo": false,
+          "original": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Glasto2023_%2865_of_468%29_%28cropped%29.jpg",
+          "src": "https://imgs.search.brave.com/YNsJxoD9F8fMgZ7vLpECXtJVqXF-XwPn0gG7STgiZEI/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy85/LzliL0dsYXN0bzIw/MjNfJTI4NjVfb2Zf/NDY4JTI5XyUyOGNy/b3BwZWQlMjkuanBn"
+        },
+        "title": "Foo Fighters - Wikipedia",
+        "type": "search_result",
+        "url": "https://en.wikipedia.org/wiki/Foo_Fighters"
+      },
+      {
+        "age": "July 18, 2024",
+        "description": "<strong>Foo</strong> Fighters. 12,078,445 likes \u00b7 44,577 talking about this. Rock band.",
+        "family_friendly": true,
+        "is_source_both": false,
+        "is_source_local": false,
+        "language": "en",
+        "meta_url": {
+          "favicon": "https://imgs.search.brave.com/UPSLokJBKWPdNzHbqH5o3CgD13zMvR3pUTn8bk7hmPM/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOWM3NjZkMmE4/MTU1MTk4ZDU5YzU3/NjUxY2ExZTdjNWQx/NjJlNTY1Y2VlODM4/MmRmMDgzZDBiMmI3/YzU4NmU4ZS93d3cu/ZmFjZWJvb2suY29t/Lw",
+          "hostname": "www.facebook.com",
+          "netloc": "facebook.com",
+          "path": "\u203a foofighters",
+          "scheme": "https"
+        },
+        "page_age": "2024-07-18T06:50:02",
+        "profile": {
+          "img": "https://imgs.search.brave.com/UPSLokJBKWPdNzHbqH5o3CgD13zMvR3pUTn8bk7hmPM/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOWM3NjZkMmE4/MTU1MTk4ZDU5YzU3/NjUxY2ExZTdjNWQx/NjJlNTY1Y2VlODM4/MmRmMDgzZDBiMmI3/YzU4NmU4ZS93d3cu/ZmFjZWJvb2suY29t/Lw",
+          "long_name": "facebook.com",
+          "name": "Facebook",
+          "url": "https://www.facebook.com/foofighters/"
+        },
+        "subtype": "generic",
+        "thumbnail": {
+          "logo": false,
+          "original": "https://scontent.fmli1-1.fna.fbcdn.net/v/t39.30808-1/342401608_196767993150671_320254259188412213_n.jpg?stp=dst-jpg_p720x720&amp;_nc_cat=1&amp;ccb=1-7&amp;_nc_sid=5f2048&amp;_nc_ohc=t3qLNFocxQMQ7kNvgGg7-mJ&amp;_nc_ht=scontent.fmli1-1.fna&amp;oh=00_AYDIC8hugpnE9cm-BpQFooxGkRyetaku2M75tgWSg_xBNg&amp;oe=66748AEB",
+          "src": "https://imgs.search.brave.com/IaW_DQRnp83xeEXKQxZmU9UPurjPipWJFuOh86bGVBA/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9zY29u/dGVudC5mbWxpMS0x/LmZuYS5mYmNkbi5u/ZXQvdi90MzkuMzA4/MDgtMS8zNDI0MDE2/MDhfMTk2NzY3OTkz/MTUwNjcxXzMyMDI1/NDI1OTE4ODQxMjIx/M19uLmpwZz9zdHA9/ZHN0LWpwZ19wNzIw/eDcyMCZhbXA7X25j/X2NhdD0xJmFtcDtj/Y2I9MS03JmFtcDtf/bmNfc2lkPTVmMjA0/OCZhbXA7X25jX29o/Yz10M3FMTkZvY3hR/TVE3a052Z0dnNy1t/SiZhbXA7X25jX2h0/PXNjb250ZW50LmZt/bGkxLTEuZm5hJmFt/cDtvaD0wMF9BWURJ/QzhodWdwbkU5Y20t/QnBRRm9veEdrUnll/dGFrdTJNNzV0Z1dT/Z194Qk5nJmFtcDtv/ZT02Njc0OEFFQg"
+        },
+        "title": "Foo Fighters",
+        "type": "search_result",
+        "url": "https://www.facebook.com/foofighters/"
+      },
+      {
+        "age": "August 2, 2023",
+        "description": "AboutPressCopyrightContact usCreatorsAdvertiseDevelopersTermsPrivacyPolicy &amp; SafetyHow YouTube worksTest new featuresNFL Sunday Ticket \u00b7 \u00a9 2024 Google LLC",
+        "family_friendly": true,
+        "is_source_both": false,
+        "is_source_local": false,
+        "language": "en",
+        "meta_url": {
+          "favicon": "https://imgs.search.brave.com/Wg4wjE5SHAargkzePU3eSLmWgVz84BEZk1SjSglJK_U/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOTkyZTZiMWU3/YzU3Nzc5YjExYzUy/N2VhZTIxOWNlYjM5/ZGVjN2MyZDY4Nzdh/ZDYzMTYxNmI5N2Rk/Y2Q3N2FkNy93d3cu/eW91dHViZS5jb20v",
+          "hostname": "www.youtube.com",
+          "netloc": "youtube.com",
+          "path": "  \u203a foo fighters",
+          "scheme": "https"
+        },
+        "page_age": "2023-08-02T20:50:04",
+        "profile": {
+          "img": "https://imgs.search.brave.com/Wg4wjE5SHAargkzePU3eSLmWgVz84BEZk1SjSglJK_U/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOTkyZTZiMWU3/YzU3Nzc5YjExYzUy/N2VhZTIxOWNlYjM5/ZGVjN2MyZDY4Nzdh/ZDYzMTYxNmI5N2Rk/Y2Q3N2FkNy93d3cu/eW91dHViZS5jb20v",
+          "long_name": "youtube.com",
+          "name": "YouTube",
+          "url": "https://www.youtube.com/channel/UCi2KNss4Yx73NG0JARSFe0A"
+        },
+        "subtype": "generic",
+        "thumbnail": {
+          "logo": false,
+          "original": "https://yt3.googleusercontent.com/bJCcLIV99-EvOYl_JlIlSUzmlIlCkqy-wtR32Mjuf7vF447OkT3sZp5MQ-SucAGHBxJUKAuwfg=s900-c-k-c0x00ffffff-no-rj",
+          "src": "https://imgs.search.brave.com/GGvCISjafFn44lz0yB79wseli4CSsBiT4RI57ZFrvLE/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly95dDMu/Z29vZ2xldXNlcmNv/bnRlbnQuY29tL2JK/Q2NMSVY5OS1Fdk9Z/bF9KbElsU1V6bWxJ/bENrcXktd3RSMzJN/anVmN3ZGNDQ3T2tU/M3NacDVNUS1TdWNB/R0hCeEpVS0F1d2Zn/PXM5MDAtYy1rLWMw/eDAwZmZmZmZmLW5v/LXJq"
+        },
+        "title": "Foo Fighters - YouTube",
+        "type": "search_result",
+        "url": "https://www.youtube.com/channel/UCi2KNss4Yx73NG0JARSFe0A"
+      },
+      {
+        "age": "January 12, 2023",
+        "description": "Suppose we have two objects, <strong>foo</strong> and bar.",
+        "family_friendly": true,
+        "is_source_both": false,
+        "is_source_local": false,
+        "language": "en",
+        "meta_url": {
+          "favicon": "https://imgs.search.brave.com/XQ3KOvkWf0hLVIWhISvRw6M1nLnbdUi-ngZIvmgupxk/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNGRhMWY0NGNi/NmRhZWY4ODQ1NWEw/ODdmYTRmZDM1OWEy/Mjk4NWZiOGQ2ZDIy/MjE4YzkyZWRiYjI2/OWU5YjI3Zi9lbi53/aWt0aW9uYXJ5Lm9y/Zy8",
+          "hostname": "en.wiktionary.org",
+          "netloc": "en.wiktionary.org",
+          "path": "\u203a wiki  \u203a foo",
+          "scheme": "https"
+        },
+        "page_age": "2023-01-12T07:30:02",
+        "profile": {
+          "img": "https://imgs.search.brave.com/XQ3KOvkWf0hLVIWhISvRw6M1nLnbdUi-ngZIvmgupxk/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNGRhMWY0NGNi/NmRhZWY4ODQ1NWEw/ODdmYTRmZDM1OWEy/Mjk4NWZiOGQ2ZDIy/MjE4YzkyZWRiYjI2/OWU5YjI3Zi9lbi53/aWt0aW9uYXJ5Lm9y/Zy8",
+          "long_name": "en.wiktionary.org",
+          "name": "Wiktionary",
+          "url": "https://en.wiktionary.org/wiki/foo"
+        },
+        "subtype": "generic",
+        "thumbnail": {
+          "logo": false,
+          "original": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Chinese_Good_Fortune_Cross_Stitch_Pattern.JPG/640px-Chinese_Good_Fortune_Cross_Stitch_Pattern.JPG",
+          "src": "https://imgs.search.brave.com/pE6wwKEGKlbVnDRP7dlkbNasXB6WEKFV7USl5DJYeyc/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy90/aHVtYi8xLzEwL0No/aW5lc2VfR29vZF9G/b3J0dW5lX0Nyb3Nz/X1N0aXRjaF9QYXR0/ZXJuLkpQRy82NDBw/eC1DaGluZXNlX0dv/b2RfRm9ydHVuZV9D/cm9zc19TdGl0Y2hf/UGF0dGVybi5KUEc"
+        },
+        "title": "foo - Wiktionary, the free dictionary",
+        "type": "search_result",
+        "url": "https://en.wiktionary.org/wiki/foo"
+      },
+      {
+        "description": "When \u2018<strong>foo</strong>\u2019 is used in connection with \u2018bar\u2019 it has generally traced to the WWII-era Army slang acronym FUBAR (\u2018Fucked Up Beyond All Repair\u2019 or \u2018Fucked Up Beyond All Recognition\u2019), later modified to foobar.",
+        "family_friendly": true,
+        "is_source_both": false,
+        "is_source_local": false,
+        "language": "unk",
+        "meta_url": {
+          "favicon": "https://imgs.search.brave.com/Sz7-B-o2VXs9YKDzQwWdZanPQQY99QkpAGZK7pCXWKw/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYTllMmEwZjMz/ODlmOTZiMzBlOGUx/YTBmNmU1ZmY2MmNj/ODY5ZTdkYWI4MjIw/NjllMTI5YTVmNDkz/NmFiZDY3Yi93d3cu/Y2F0Yi5vcmcv",
+          "hostname": "www.catb.org",
+          "netloc": "catb.org",
+          "path": "\u203a jargon  \u203a html  \u203a F  \u203a foo.html",
+          "scheme": "http"
+        },
+        "profile": {
+          "img": "https://imgs.search.brave.com/Sz7-B-o2VXs9YKDzQwWdZanPQQY99QkpAGZK7pCXWKw/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYTllMmEwZjMz/ODlmOTZiMzBlOGUx/YTBmNmU1ZmY2MmNj/ODY5ZTdkYWI4MjIw/NjllMTI5YTVmNDkz/NmFiZDY3Yi93d3cu/Y2F0Yi5vcmcv",
+          "long_name": "catb.org",
+          "name": "Catb",
+          "url": "http://www.catb.org/jargon/html/F/foo.html"
+        },
+        "subtype": "generic",
+        "title": "foo",
+        "type": "search_result",
+        "url": "http://www.catb.org/jargon/html/F/foo.html"
+      },
+      {
+        "description": "The Official <strong>Foo</strong> Fighters YouTube Channel!! #MedicineAtMidnight, the new album is out now!!! #Studio666 now in theatres and at home on demnad!!!",
+        "family_friendly": true,
+        "is_source_both": false,
+        "is_source_local": false,
+        "language": "en",
+        "meta_url": {
+          "favicon": "https://imgs.search.brave.com/p0B86IaQr1YuFWzlQTuEltmxPAh7UzF2DpyN8i96T6M/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZTExOWJhZDk1/ZTUxZWUwYmE3NTg0/N2QzZjQwZjZhMTE5/ZTc1NWY5MzMwYjll/OTJhNTM3ZjdmZTMw/MzdlM2EwNC9tLnlv/dXR1YmUuY29tLw",
+          "hostname": "m.youtube.com",
+          "netloc": "m.youtube.com",
+          "path": "  \u203a foo fighters",
+          "scheme": "https"
+        },
+        "profile": {
+          "img": "https://imgs.search.brave.com/p0B86IaQr1YuFWzlQTuEltmxPAh7UzF2DpyN8i96T6M/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZTExOWJhZDk1/ZTUxZWUwYmE3NTg0/N2QzZjQwZjZhMTE5/ZTc1NWY5MzMwYjll/OTJhNTM3ZjdmZTMw/MzdlM2EwNC9tLnlv/dXR1YmUuY29tLw",
+          "long_name": "m.youtube.com",
+          "name": "YouTube",
+          "url": "https://m.youtube.com/channel/UCi2KNss4Yx73NG0JARSFe0A"
+        },
+        "subtype": "generic",
+        "thumbnail": {
+          "logo": false,
+          "original": "https://yt3.ggpht.com/iCS11jvJG82IrZH-DW89Es_0dadc6oI-ZfNe009A1NyIOlXuGU2s32p8Vx-9E_rniAFNNkKtzw=s900-c-k-c0x00ffffff-no-rj",
+          "src": "https://imgs.search.brave.com/O7DSnxBcAfuBA_JpN-fvj0FV92c9ulRRQHMOETawR6M/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly95dDMu/Z2dwaHQuY29tL2lD/UzExanZKRzgySXJa/SC1EVzg5RXNfMGRh/ZGM2b0ktWmZOZTAw/OUExTnlJT2xYdUdV/MnMzMnA4VngtOUVf/cm5pQUZOTmtLdHp3/PXM5MDAtYy1rLWMw/eDAwZmZmZmZmLW5v/LXJq"
+        },
+        "title": "Foo Fighters",
+        "type": "search_result",
+        "url": "https://m.youtube.com/channel/UCi2KNss4Yx73NG0JARSFe0A"
+      },
+      {
+        "age": "March 26, 2022",
+        "description": "Listen to <strong>Foo</strong> Fighters on Spotify. Artist \u00b7 22.8M monthly listeners.",
+        "family_friendly": true,
+        "is_source_both": false,
+        "is_source_local": false,
+        "language": "en",
+        "meta_url": {
+          "favicon": "https://imgs.search.brave.com/TEnJcl6pQnFHZ4c2dFZEzF0Vkd1A4CV059HHEkIMLVM/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNDExZTQ1OTU0/NTllYzVjMzBiOTcy/N2Y2NTkzYzEyM2Nm/ZDY5ZTIxZGUyZmEz/ZGEzYzY5ZmE4ZTcw/M2ZjMWViYS9vcGVu/LnNwb3RpZnkuY29t/Lw",
+          "hostname": "open.spotify.com",
+          "netloc": "open.spotify.com",
+          "path": "\u203a artist  \u203a 7jy3rLJdDQY21OgRLCZ9sD",
+          "scheme": "https"
+        },
+        "page_age": "2022-03-26T17:10:02",
+        "profile": {
+          "img": "https://imgs.search.brave.com/TEnJcl6pQnFHZ4c2dFZEzF0Vkd1A4CV059HHEkIMLVM/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNDExZTQ1OTU0/NTllYzVjMzBiOTcy/N2Y2NTkzYzEyM2Nm/ZDY5ZTIxZGUyZmEz/ZGEzYzY5ZmE4ZTcw/M2ZjMWViYS9vcGVu/LnNwb3RpZnkuY29t/Lw",
+          "long_name": "open.spotify.com",
+          "name": "Spotify",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+        },
+        "subtype": "generic",
+        "thumbnail": {
+          "logo": false,
+          "original": "https://i.scdn.co/image/ab6761610000e5ebc884df599abc793c116cdf15",
+          "src": "https://imgs.search.brave.com/_gvLyUw8wfADZnBg0g9HRaR87xJHNt7XYJACMhBWBBg/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pLnNj/ZG4uY28vaW1hZ2Uv/YWI2NzYxNjEwMDAw/ZTVlYmM4ODRkZjU5/OWFiYzc5M2MxMTZj/ZGYxNQ"
+        },
+        "title": "Foo Fighters | Spotify",
+        "type": "search_result",
+        "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+      },
+      {
+        "description": "of African origin; akin to Ewe fu1fu1 food made from boiled and pounded yam, cassava, and coco, Wolof fufu food made from cassava meal",
+        "family_friendly": true,
+        "is_source_both": false,
+        "is_source_local": false,
+        "language": "en",
+        "meta_url": {
+          "favicon": "https://imgs.search.brave.com/bi9FmWof5TzSvP5tKxg_pdJSHXMziocpI7_cq6ov5r0/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNzYwYjQ3N2Jj/NTBhNDkxYTExNjU0/NTFhZDdlMGI0NjJh/Y2M1ODcwOWQwYzc5/YTI2MmZkZjIxMGFk/N2NkZWMzYy93d3cu/bWVycmlhbS13ZWJz/dGVyLmNvbS8",
+          "hostname": "www.merriam-webster.com",
+          "netloc": "merriam-webster.com",
+          "path": "\u203a dictionary  \u203a foo-foo",
+          "scheme": "https"
+        },
+        "profile": {
+          "img": "https://imgs.search.brave.com/bi9FmWof5TzSvP5tKxg_pdJSHXMziocpI7_cq6ov5r0/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNzYwYjQ3N2Jj/NTBhNDkxYTExNjU0/NTFhZDdlMGI0NjJh/Y2M1ODcwOWQwYzc5/YTI2MmZkZjIxMGFk/N2NkZWMzYy93d3cu/bWVycmlhbS13ZWJz/dGVyLmNvbS8",
+          "long_name": "merriam-webster.com",
+          "name": "Merriam-Webster",
+          "url": "https://www.merriam-webster.com/dictionary/foo-foo"
+        },
+        "subtype": "generic",
+        "thumbnail": {
+          "logo": true,
+          "original": "https://merriam-webster.com/assets/mw/static/social-media-share/mw-logo-245x245@1x.png",
+          "src": "https://imgs.search.brave.com/bm0KAMlQNzmOllIUGR3mEs5IHZ5Vza39PqaM9cLhyDc/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9tZXJy/aWFtLXdlYnN0ZXIu/Y29tL2Fzc2V0cy9t/dy9zdGF0aWMvc29j/aWFsLW1lZGlhLXNo/YXJlL213LWxvZ28t/MjQ1eDI0NUAxeC5w/bmc"
+        },
+        "title": "Foo-foo Definition & Meaning - Merriam-Webster",
+        "type": "search_result",
+        "url": "https://www.merriam-webster.com/dictionary/foo-foo"
+      },
+      {
+        "description": "Play <strong>Foo</strong> Fighters and discover followers on SoundCloud | Stream tracks, albums, playlists on desktop and mobile.",
+        "family_friendly": true,
+        "is_source_both": false,
+        "is_source_local": false,
+        "language": "en",
+        "meta_url": {
+          "favicon": "https://imgs.search.brave.com/cITFBqfwL8R8KcVrBVnr4mutx1MdwZ3SrxiSlMNye2E/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMTA5ZDgyNGJl/NjljY2RjMmFkYWFi/YThkMjA5NjkxNTNh/YzBmMGI0YWIxNGE4/YTVhNjI3N2IwODQ0/ZTEyMDk4Yy9zb3Vu/ZGNsb3VkLmNvbS8",
+          "hostname": "soundcloud.com",
+          "netloc": "soundcloud.com",
+          "path": "\u203a foofighters",
+          "scheme": "https"
+        },
+        "profile": {
+          "img": "https://imgs.search.brave.com/cITFBqfwL8R8KcVrBVnr4mutx1MdwZ3SrxiSlMNye2E/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMTA5ZDgyNGJl/NjljY2RjMmFkYWFi/YThkMjA5NjkxNTNh/YzBmMGI0YWIxNGE4/YTVhNjI3N2IwODQ0/ZTEyMDk4Yy9zb3Vu/ZGNsb3VkLmNvbS8",
+          "long_name": "soundcloud.com",
+          "name": "SoundCloud",
+          "url": "https://soundcloud.com/foofighters"
+        },
+        "subtype": "generic",
+        "thumbnail": {
+          "logo": false,
+          "original": "https://i1.sndcdn.com/avatars-07SMya5dH3rbT9mf-dNr25g-t500x500.jpg",
+          "src": "https://imgs.search.brave.com/-ENtQJPXv2Z8_FAKwkMmlV0f3V_L-5gbDT224dgkAEQ/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pMS5z/bmRjZG4uY29tL2F2/YXRhcnMtMDdTTXlh/NWRIM3JiVDltZi1k/TnIyNWctdDUwMHg1/MDAuanBn"
+        },
+        "title": "Stream Foo Fighters music | Listen to songs, albums, playlists for free on SoundCloud",
+        "type": "search_result",
+        "url": "https://soundcloud.com/foofighters"
+      },
+      {
+        "description": "Explore Twitter&#x27;s latest discussions on <strong>foo</strong>",
+        "family_friendly": true,
+        "is_source_both": false,
+        "is_source_local": false,
+        "language": "en",
+        "meta_url": {
+          "favicon": "https://imgs.search.brave.com/wWeP6Pa-JGi7cDBqMPkc4Ckai-nUQl4uFSKrw0evyx4/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvN2MxOTUxNzhj/OTY1ZTQ3N2I0MjJk/MTY5NGM0MTRlYWVi/MjU1YWE2NDUwYmQ2/YTA2MDFhMDlkZDEx/NTAzZGNiNi90d2l0/dGVyLmNvbS8",
+          "hostname": "twitter.com",
+          "netloc": "twitter.com",
+          "path": "\u203a search",
+          "scheme": "https"
+        },
+        "profile": {
+          "img": "https://imgs.search.brave.com/wWeP6Pa-JGi7cDBqMPkc4Ckai-nUQl4uFSKrw0evyx4/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvN2MxOTUxNzhj/OTY1ZTQ3N2I0MjJk/MTY5NGM0MTRlYWVi/MjU1YWE2NDUwYmQ2/YTA2MDFhMDlkZDEx/NTAzZGNiNi90d2l0/dGVyLmNvbS8",
+          "long_name": "twitter.com",
+          "name": "Twitter",
+          "url": "https://twitter.com/search?q=foo"
+        },
+        "subtype": "generic",
+        "title": "foo on X",
+        "type": "search_result",
+        "url": "https://twitter.com/search?q=foo"
+      },
+      {
+        "description": "The OED is the definitive record of the English language, featuring 600,000 words, 3 million quotations, and over 1,000 years of English.",
+        "family_friendly": true,
+        "is_source_both": false,
+        "is_source_local": false,
+        "language": "en",
+        "meta_url": {
+          "favicon": "https://imgs.search.brave.com/Di741hNKrYYnghGFa1rZNGqikgoq4tJnKSK2g5fbVNs/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNTY2NDMxYzkw/YTVlZDdjMTM3YTc2/MTI2YzhlYWJkZjIz/NzY0NTY3YmYxMWU1/YTJjOWU2YzA3NGU0/OTg5NDU4MC93d3cu/b2VkLmNvbS8",
+          "hostname": "www.oed.com",
+          "netloc": "oed.com",
+          "path": "\u203a dictionary  \u203a foo-foo_n",
+          "scheme": "https"
+        },
+        "profile": {
+          "img": "https://imgs.search.brave.com/Di741hNKrYYnghGFa1rZNGqikgoq4tJnKSK2g5fbVNs/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNTY2NDMxYzkw/YTVlZDdjMTM3YTc2/MTI2YzhlYWJkZjIz/NzY0NTY3YmYxMWU1/YTJjOWU2YzA3NGU0/OTg5NDU4MC93d3cu/b2VkLmNvbS8",
+          "long_name": "oed.com",
+          "name": "Oed",
+          "url": "https://www.oed.com/dictionary/foo-foo_n"
+        },
+        "subtype": "generic",
+        "title": "foo-foo, n. meanings, etymology and more",
+        "type": "search_result",
+        "url": "https://www.oed.com/dictionary/foo-foo_n"
+      },
+      {
+        "age": "November 4, 2020",
+        "description": "<strong>Foo</strong> definition: (computing) A metasyntactic variable used to represent an unspecified entity. If part of a series of such entities, it is often the first in the series, and followed immediately by bar.",
+        "family_friendly": true,
+        "is_source_both": false,
+        "is_source_local": false,
+        "language": "en",
+        "meta_url": {
+          "favicon": "https://imgs.search.brave.com/rltEe1_SxD2HIlQx15q87VztdKbtbuYVg8EtY7nUNpU/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYWIzNDAxZjIy/ZmUwZWRiZmU4YThi/MTBkOGU0NmYxOTIz/N2M0ODVjOGIwYzQ2/NjkwMjRlNGUwMzY3/MmFmNWU2ZS93d3cu/eW91cmRpY3Rpb25h/cnkuY29tLw",
+          "hostname": "www.yourdictionary.com",
+          "netloc": "yourdictionary.com",
+          "path": "  \u203a home  \u203a dictionary meanings  \u203a foo definition",
+          "scheme": "https"
+        },
+        "page_age": "2020-11-04T17:20:03",
+        "profile": {
+          "img": "https://imgs.search.brave.com/rltEe1_SxD2HIlQx15q87VztdKbtbuYVg8EtY7nUNpU/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYWIzNDAxZjIy/ZmUwZWRiZmU4YThi/MTBkOGU0NmYxOTIz/N2M0ODVjOGIwYzQ2/NjkwMjRlNGUwMzY3/MmFmNWU2ZS93d3cu/eW91cmRpY3Rpb25h/cnkuY29tLw",
+          "long_name": "yourdictionary.com",
+          "name": "YourDictionary",
+          "url": "https://www.yourdictionary.com/foo"
+        },
+        "subtype": "generic",
+        "title": "Foo Definition & Meaning | YourDictionary",
+        "type": "search_result",
+        "url": "https://www.yourdictionary.com/foo"
+      },
+      {
+        "age": "July 4, 2022",
+        "description": "<strong>Foo</strong> is an intentionally meaningless placeholder word often used in computer programming.",
+        "family_friendly": true,
+        "is_source_both": false,
+        "is_source_local": false,
+        "language": "en",
+        "meta_url": {
+          "favicon": "https://imgs.search.brave.com/9_pwAh-e8ZNAIx5UQMfZl_q2KrFvxmBE3tg8a6QUl8I/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNDU4NGVmMWYw/ODRkZTIwYzRlODY4/MzM1MDdmODRkYjVm/NzEyNWIzNzM2ZWU3/ZDgyYjRmNzIyM2Nl/ZWY3ZDY0NC93d3cu/ZGljdGlvbmFyeS5j/b20v",
+          "hostname": "www.dictionary.com",
+          "netloc": "dictionary.com",
+          "path": "\u203a e  \u203a tech-science  \u203a foo",
+          "scheme": "https"
+        },
+        "page_age": "2022-07-04T00:00:00",
+        "profile": {
+          "img": "https://imgs.search.brave.com/9_pwAh-e8ZNAIx5UQMfZl_q2KrFvxmBE3tg8a6QUl8I/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNDU4NGVmMWYw/ODRkZTIwYzRlODY4/MzM1MDdmODRkYjVm/NzEyNWIzNzM2ZWU3/ZDgyYjRmNzIyM2Nl/ZWY3ZDY0NC93d3cu/ZGljdGlvbmFyeS5j/b20v",
+          "long_name": "dictionary.com",
+          "name": "Dictionary",
+          "url": "https://www.dictionary.com/e/tech-science/foo/"
+        },
+        "subtype": "article",
+        "title": "foo | Meaning & Origin | Dictionary.com",
+        "type": "search_result",
+        "url": "https://www.dictionary.com/e/tech-science/foo/"
+      },
+      {
+        "age": "September 28, 2024",
+        "description": "<strong>Foo</strong> Fighters has dropped out of a music festival after Dave Grohl recently admitted to fathering a child outside of his marriage.",
+        "family_friendly": true,
+        "is_source_both": false,
+        "is_source_local": false,
+        "language": "en",
+        "meta_url": {
+          "favicon": "https://imgs.search.brave.com/Y_nf32M16mWMcRGYv2Qt8GUxybiADIXv_NwrMFam-Oc/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYjRiNmM1Y2E0/MzMwMWQzYTYzNzhk/YjkzZjU0NTRmMDdl/ZWNmMjRiMWIwZjUz/ZDk4M2I5NDlmZjYw/ZTkyNjE4Yy93d3cu/dXNhdG9kYXkuY29t/Lw",
+          "hostname": "www.usatoday.com",
+          "netloc": "usatoday.com",
+          "path": "\u203a story  \u203a entertainment  \u203a music  \u203a 2024  \u203a 09  \u203a 26  \u203a foo-fighters-soundside-music-festival-canceled-dave-grohl  \u203a 75397774007",
+          "scheme": "https"
+        },
+        "page_age": "2024-09-28T20:55:02",
+        "profile": {
+          "img": "https://imgs.search.brave.com/Y_nf32M16mWMcRGYv2Qt8GUxybiADIXv_NwrMFam-Oc/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYjRiNmM1Y2E0/MzMwMWQzYTYzNzhk/YjkzZjU0NTRmMDdl/ZWNmMjRiMWIwZjUz/ZDk4M2I5NDlmZjYw/ZTkyNjE4Yy93d3cu/dXNhdG9kYXkuY29t/Lw",
+          "long_name": "usatoday.com",
+          "name": "USA Today",
+          "url": "https://www.usatoday.com/story/entertainment/music/2024/09/26/foo-fighters-soundside-music-festival-canceled-dave-grohl/75397774007/"
+        },
+        "subtype": "article",
+        "thumbnail": {
+          "logo": false,
+          "original": "https://www.usatoday.com/gcdn/authoring/authoring-images/2024/07/18/USAT/74452643007-2160171521.jpg?crop=2389,1345,x0,y90&width=1600&height=800&format=pjpg&auto=webp",
+          "src": "https://imgs.search.brave.com/kul10hIGbGpbyPxEVoLL1TZZaWv6NyEC7fh3i6KeIpc/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/dXNhdG9kYXkuY29t/L2djZG4vYXV0aG9y/aW5nL2F1dGhvcmlu/Zy1pbWFnZXMvMjAy/NC8wNy8xOC9VU0FU/Lzc0NDUyNjQzMDA3/LTIxNjAxNzE1MjEu/anBnP2Nyb3A9MjM4/OSwxMzQ1LHgwLHk5/MCZ3aWR0aD0xNjAw/JmhlaWdodD04MDAm/Zm9ybWF0PXBqcGcm/YXV0bz13ZWJw"
+        },
+        "title": "Foo Fighters scrap Soundside Music Festival performance after Dave Grohl controversy",
+        "type": "search_result",
+        "url": "https://www.usatoday.com/story/entertainment/music/2024/09/26/foo-fighters-soundside-music-festival-canceled-dave-grohl/75397774007/"
+      },
+      {
+        "age": "November 28, 2014",
+        "description": "I am currently studying for my C-Midterm and I encountered this declaration: int **<strong>foo</strong>[][]() When looking for the solution as to what this declaration means my tutors actually gave two differ...",
+        "family_friendly": true,
+        "is_source_both": false,
+        "is_source_local": false,
+        "language": "en",
+        "meta_url": {
+          "favicon": "https://imgs.search.brave.com/4WRMec_wn8Q9LO6DI43kkBvIL6wD5TYCXztC9C9kEI0/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNWU3Zjg0ZjA1/YjQ3ZTlkNjQ1ODA1/MjAwODhiNjhjYWU0/OTc4MjM4ZDJlMTBi/ODExYmNiNTkzMjdh/YjM3MGExMS9zdGFj/a292ZXJmbG93LmNv/bS8",
+          "hostname": "stackoverflow.com",
+          "netloc": "stackoverflow.com",
+          "path": "\u203a questions  \u203a 27177943  \u203a what-is-foo-in-int-foo",
+          "scheme": "https"
+        },
+        "page_age": "2014-11-28T00:00:00",
+        "profile": {
+          "img": "https://imgs.search.brave.com/4WRMec_wn8Q9LO6DI43kkBvIL6wD5TYCXztC9C9kEI0/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNWU3Zjg0ZjA1/YjQ3ZTlkNjQ1ODA1/MjAwODhiNjhjYWU0/OTc4MjM4ZDJlMTBi/ODExYmNiNTkzMjdh/YjM3MGExMS9zdGFj/a292ZXJmbG93LmNv/bS8",
+          "long_name": "stackoverflow.com",
+          "name": "Stack Overflow",
+          "url": "https://stackoverflow.com/questions/27177943/what-is-foo-in-int-foo"
+        },
+        "subtype": "qa",
+        "thumbnail": {
+          "logo": false,
+          "original": "https://cdn.sstatic.net/Sites/stackoverflow/Img/apple-touch-icon@2.png?v=73d79a89bded",
+          "src": "https://imgs.search.brave.com/4eF1Hc63ppYaxZ4e5vCKJVQtFhMkuzdk3kpY3MGOCjs/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9jZG4u/c3N0YXRpYy5uZXQv/U2l0ZXMvc3RhY2tv/dmVyZmxvdy9JbWcv/YXBwbGUtdG91Y2gt/aWNvbkAyLnBuZz92/PTczZDc5YTg5YmRl/ZA"
+        },
+        "title": "c - what is foo in int **foo[][]() - Stack Overflow",
+        "type": "search_result",
+        "url": "https://stackoverflow.com/questions/27177943/what-is-foo-in-int-foo"
+      },
+      {
+        "age": "July 22, 2022",
+        "description": "95 votes, 131 comments. I hear this word very often from some of my coworkers when they are having chitchats. They told me it\u2019s like Mexican way of\u2026",
+        "family_friendly": true,
+        "is_source_both": false,
+        "is_source_local": false,
+        "language": "en",
+        "meta_url": {
+          "favicon": "https://imgs.search.brave.com/U-eHNCapRHVNWWCVPPMTIvOofZULh0_A_FQKe8xTE4I/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvN2ZiNTU0M2Nj/MTFhZjRiYWViZDlk/MjJiMjBjMzFjMDRk/Y2IzYWI0MGI0MjVk/OGY5NzQzOGQ5NzQ5/NWJhMWI0NC93d3cu/cmVkZGl0LmNvbS8",
+          "hostname": "www.reddit.com",
+          "netloc": "reddit.com",
+          "path": "  \u203a r/asklosangeles  \u203a how did the word \u201cfoo\u201d become popular in la and the greater area?",
+          "scheme": "https"
+        },
+        "page_age": "2022-07-22T00:00:00",
+        "profile": {
+          "img": "https://imgs.search.brave.com/U-eHNCapRHVNWWCVPPMTIvOofZULh0_A_FQKe8xTE4I/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvN2ZiNTU0M2Nj/MTFhZjRiYWViZDlk/MjJiMjBjMzFjMDRk/Y2IzYWI0MGI0MjVk/OGY5NzQzOGQ5NzQ5/NWJhMWI0NC93d3cu/cmVkZGl0LmNvbS8",
+          "long_name": "reddit.com",
+          "name": "Reddit",
+          "url": "https://www.reddit.com/r/AskLosAngeles/comments/w4rdiu/how_did_the_word_foo_become_popular_in_la_and_the/"
+        },
+        "subtype": "qa",
+        "thumbnail": {
+          "logo": false,
+          "original": "https://share.redd.it/preview/post/w4rdiu",
+          "src": "https://imgs.search.brave.com/1TsJVDAqZrgIbWFClnuiV8X-CupZvGNh2ggtU-A0zlE/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9zaGFy/ZS5yZWRkLml0L3By/ZXZpZXcvcG9zdC93/NHJkaXU"
+        },
+        "title": "r/AskLosAngeles on Reddit: How did the word \u201cfoo\u201d become popular in LA and the greater area?",
+        "type": "search_result",
+        "url": "https://www.reddit.com/r/AskLosAngeles/comments/w4rdiu/how_did_the_word_foo_become_popular_in_la_and_the/"
+      },
+      {
+        "age": "April 12, 2018",
+        "description": "Answer (1 of 3): The terms foobar or <strong>foo</strong> and others are used as placeholder names (also referred to as metasyntactic variables) in computer programming. A metasyntactic variable is a specific word or set of words identified as a placeholder in computer science and specifically computer programmi...",
+        "family_friendly": true,
+        "is_source_both": false,
+        "is_source_local": false,
+        "language": "en",
+        "meta_url": {
+          "favicon": "https://imgs.search.brave.com/jGre8FRmkjFxQij3rGpjeFOF-u1NLnEoE4FiyrJhNLI/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYjg3ZTk4MDVm/ZTE3YzUxZTc4Yjc3/YTE2MGI3MGVhNmQ2/MGE0Yjc4NzRhMmM1/ODMxYTIwNzI1ZjI0/NDkyZDI2Yy93d3cu/cXVvcmEuY29tLw",
+          "hostname": "www.quora.com",
+          "netloc": "quora.com",
+          "path": "\u203a What-is-foo-I-have-seen-this-plenty-of-times-in-others-code-especially-in-examples-Is-it-a-tradition",
+          "scheme": "https"
+        },
+        "page_age": "2018-04-12T00:00:00",
+        "profile": {
+          "img": "https://imgs.search.brave.com/jGre8FRmkjFxQij3rGpjeFOF-u1NLnEoE4FiyrJhNLI/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYjg3ZTk4MDVm/ZTE3YzUxZTc4Yjc3/YTE2MGI3MGVhNmQ2/MGE0Yjc4NzRhMmM1/ODMxYTIwNzI1ZjI0/NDkyZDI2Yy93d3cu/cXVvcmEuY29tLw",
+          "long_name": "quora.com",
+          "name": "Quora",
+          "url": "https://www.quora.com/What-is-foo-I-have-seen-this-plenty-of-times-in-others-code-especially-in-examples-Is-it-a-tradition"
+        },
+        "subtype": "generic",
+        "thumbnail": {
+          "logo": false,
+          "original": "https://qph.cf2.quoracdn.net/main-custom-t-788-600x315-pitawsfglqjondnjfdmgqqsnbnracpcv.jpeg",
+          "src": "https://imgs.search.brave.com/-Z8b5YDCmEvVhTKWZo5ZxgSmzakY7Wgfbpw6n6A6k4g/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9xcGgu/Y2YyLnF1b3JhY2Ru/Lm5ldC9tYWluLWN1/c3RvbS10LTc4OC02/MDB4MzE1LXBpdGF3/c2ZnbHFqb25kbmpm/ZG1ncXFzbmJucmFj/cGN2LmpwZWc"
+        },
+        "title": "What is 'foo'? I have seen this plenty of times in others\u2019 code especially in examples. Is it a tradition? - Quora",
+        "type": "search_result",
+        "url": "https://www.quora.com/What-is-foo-I-have-seen-this-plenty-of-times-in-others-code-especially-in-examples-Is-it-a-tradition"
+      }
+    ],
+    "type": "search"
+  }
+}

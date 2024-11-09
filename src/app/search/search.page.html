@@ -1,0 +1,12 @@
+<ion-content class="ion-padding">
+  <div class="search-container">
+      <ion-img src="assets/top.png" style="height: 100px; margin-bottom: 30px;"></ion-img>
+
+    <ion-item lines="none">
+      <ion-input placeholder="Busca en Google" [(ngModel)]="searchQuery"></ion-input>
+    </ion-item>
+    <ion-button expand="block" (click)="onSearch()">
+      Cerca a la web!
+    </ion-button>
+  </div>
+</ion-content>

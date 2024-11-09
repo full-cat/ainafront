@@ -1,0 +1,18 @@
+.search-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 80vh;
+}
+
+ion-item {
+  max-width: 600px;
+  width: 100%;
+  margin-bottom: 1rem;
+}
+
+ion-button {
+  max-width: 200px;
+  width: 100%;
+}

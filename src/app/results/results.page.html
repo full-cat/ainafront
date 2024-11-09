@@ -1,0 +1,32 @@
+<ion-header>
+  <ion-toolbar>
+    <ion-title>Resultados de Búsqueda</ion-title>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content class="ion-padding">
+  <!-- Barra de búsqueda -->
+  <ion-item>
+    <ion-input placeholder="Buscar en Google" [(ngModel)]="searchQuery" (keyup.enter)="onSearch()"></ion-input>
+    <ion-button slot="end" (click)="onSearch()">Buscar</ion-button>
+  </ion-item>
+
+  <!-- Resultados de búsqueda -->
+  <ion-card>
+    <app-typing></app-typing>
+    <ion-button>Regenerate</ion-button>
+  </ion-card>
+
+  <div *ngIf="searchResults.length > 0" class="results-container">
+    <ion-list>
+      <ion-item *ngFor="let result of searchResults" (click)="openResult(result.url)">
+        <ion-label>
+<!--          make that title appears link text with highlight-->
+          <h2 [innerHTML]="result.title | safeHtml"></h2>
+          <div [innerHTML]="result.description | safeHtml"></div>
+          <small class="url">{{ result.url }}</small>
+        </ion-label>
+      </ion-item>
+    </ion-list>
+  </div>
+</ion-content>
