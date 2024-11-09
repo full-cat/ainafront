@@ -1,32 +1,85 @@
-<ion-header>
-  <ion-toolbar>
-    <ion-title>Resultados de Búsqueda</ion-title>
-  </ion-toolbar>
-</ion-header>
-
 <ion-content class="ion-padding">
   <!-- Barra de búsqueda -->
-  <ion-item>
-    <ion-input placeholder="Buscar en Google" [(ngModel)]="searchQuery" (keyup.enter)="onSearch()"></ion-input>
-    <ion-button slot="end" (click)="onSearch()">Buscar</ion-button>
-  </ion-item>
+      <div style="display: flex; justify-content: center; align-items: center; flex-direction: column; margin-bottom: 50px">
+        <ion-img src="assets/cercat.png" style="height: 100px; margin: 30px;"></ion-img>
+
+        <ion-item lines="none"  style="border-radius: 20px;">
+          <ion-input placeholder="L'agradaria preguntar-me alguna cosa més?" [(ngModel)]="searchQuery"></ion-input>
+        </ion-item>
+        <ion-button class="search" expand="block" (click)="onSearch()">
+          Cerca a la web!
+        </ion-button>
+      </div>
+
+
 
   <!-- Resultados de búsqueda -->
-  <ion-card>
-    <app-typing></app-typing>
-    <ion-button>Regenerate</ion-button>
-  </ion-card>
+  <div style="display: flex; justify-content: center; ">
 
-  <div *ngIf="searchResults.length > 0" class="results-container">
-    <ion-list>
-      <ion-item *ngFor="let result of searchResults" (click)="openResult(result.url)">
-        <ion-label>
-<!--          make that title appears link text with highlight-->
-          <h2 [innerHTML]="result.title | safeHtml"></h2>
-          <div [innerHTML]="result.description | safeHtml"></div>
-          <small class="url">{{ result.url }}</small>
-        </ion-label>
-      </ion-item>
-    </ion-list>
+    <ion-card style="width: 600px; border-radius: 20px;">
+      <ion-card-content style="display: flex; justify-content: center; align-items: center; flex-direction: column;">
+        <ion-img src="assets/woman.png" style="width: 70px; margin: 15px"></ion-img>
+              <app-typing style="margin: 15px;"></app-typing>
+        <ion-button fill="clear"  style="color: #e32629;" >
+          <ion-icon slot="start" name="chatbubbles"></ion-icon>
+          Dona'm una altra resposta
+        </ion-button>
+            </ion-card-content>
+          </ion-card>
+
+
+
   </div>
+  <div style="display: flex; flex-direction: column; align-items: center; justify-content: center">
+    <ng-container *ngIf="searchResults.length > 0">
+    <ion-card style="width: 600px; border-radius: 20px;" *ngFor="let result of searchResults">
+      <ion-card-content>
+        <ion-label>
+          <!--          make that title appears link text with highlight-->
+          <h2 [innerHTML]="result.title | safeHtml" style="color: #e32629" (click)="openResult(result.url)"></h2>
+          <div [innerHTML]="result.description | safeHtml"></div>
+          <small class="url" style="color: darkblue">{{ result.url }}</small>
+        </ion-label>
+      </ion-card-content>
+    </ion-card>
+    </ng-container>
+  </div>
+
+<!--  nine little squares horizontally no img-->
+  <div style="display: flex; justify-content: center; margin-top: 50px;">
+    <ion-card style="width: 600px; border-radius: 20px;">
+      <ion-card-content style="display: flex; justify-content: center; align-items: center; flex-direction: row;">
+        <ion-button style="--background: black; opacity: 0.2">
+          <ion-icon slot="icon-only"></ion-icon>
+        </ion-button>
+        <ion-button style="--background: #e32629">
+          <ion-icon slot="icon-only" ></ion-icon>
+        </ion-button>
+        <ion-button style="--background: black; opacity: 0.2">
+          <ion-icon slot="icon-only"></ion-icon>
+        </ion-button>
+        <ion-button style="--background: #e32629">
+          <ion-icon slot="icon-only"></ion-icon>
+        </ion-button>
+        <ion-button style="--background: black; opacity: 0.2">
+          <ion-icon slot="icon-only"></ion-icon>
+        </ion-button>
+        <ion-button style="--background: #e32629">
+          <ion-icon slot="icon-only"></ion-icon>
+        </ion-button>
+        <ion-button style="--background: black; opacity: 0.2">
+          <ion-icon slot="icon-only"></ion-icon>
+        </ion-button>
+        <ion-button style="--background: #e32629">
+          <ion-icon slot="icon-only"></ion-icon>
+        </ion-button>
+        <ion-button style="--background: black; opacity: 0.2">
+          <ion-icon slot="icon-only"></ion-icon>
+        </ion-button>
+      </ion-card-content>
+    </ion-card>
+  </div>
+
+
+
 </ion-content>

@@ -1,12 +1,48 @@
 <ion-content class="ion-padding">
-  <div class="search-container">
-      <ion-img src="assets/top.png" style="height: 100px; margin-bottom: 30px;"></ion-img>
+  <div class="search-container" style="height: 75vh">
+    <ion-img src="assets/cercat.png" style="height: 100px; margin-bottom: 30px;"></ion-img>
 
-    <ion-item lines="none">
-      <ion-input placeholder="Busca en Google" [(ngModel)]="searchQuery"></ion-input>
+    <ion-item lines="none"  style="border-radius: 20px;">
+      <ion-input placeholder="En què et puc assistir?" [(ngModel)]="searchQuery"></ion-input>
     </ion-item>
     <ion-button expand="block" (click)="onSearch()">
       Cerca a la web!
     </ion-button>
+  </div>
+  <!--  institutional logos in downpart-->
+  <div class="institutional-logos">
+    <div style="display: flex; justify-content: center;">
+      <ion-row style="max-width: 700px">
+        <ion-col size="3">
+          <ion-img src="assets/gencat.png" style="height: 100px; width: auto;"></ion-img>
+        </ion-col>
+        <ion-col size="3">
+          <ion-img src="assets/cidai.png" style="height: 100px; width: auto;"></ion-img>
+        </ion-col>
+        <ion-col size="3">
+          <ion-img src="assets/bsc.png" style="height: 100px; width: auto;"></ion-img>
+        </ion-col>
+        <ion-col size="3">
+          <ion-img src="assets/eurecat.png" style="height: 100px; width: auto;"></ion-img>
+        </ion-col>
+      </ion-row>
+    </div>
+    <div style="display: flex; justify-content: center;">
+      <ion-row style="max-width: 400px;" class="ion-align-items-center">
+        <ion-col size="3">
+          <ion-img src="assets/i2cat.png" style="height: 30px; width: auto;"></ion-img>
+        </ion-col>
+        <ion-col size="3">
+          <ion-img src="assets/google.svg" style="height: 70px; width: auto;"></ion-img>
+        </ion-col>
+        <ion-col size="3">
+          <ion-img src="assets/microsoft.png" style="height: 70px; width: auto;"></ion-img>
+        </ion-col>
+        <ion-col size="3">
+          <ion-img src="assets/nttdata.svg" style="height: 70px; width: auto;"></ion-img>
+        </ion-col>
+      </ion-row>
+    </div>
+
   </div>
 </ion-content>

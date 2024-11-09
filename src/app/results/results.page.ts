@@ -20,6 +20,7 @@ export class ResultsPage {
     if (extras && extras.data) {
       // load searchResults from extras.data
       this.parseResults(extras.data);
+      this.limitResults()
     }
   }
 
@@ -29,6 +30,7 @@ export class ResultsPage {
       console.log('Resultados:', response);
 
       this.parseResults(response);
+      this.limitResults()
 
       // add ++++ to all titles
       this.searchResults = this.searchResults.map((result: any) => {
@@ -55,5 +57,9 @@ export class ResultsPage {
         url: "http://localhost:5000/proxy?url=" + result.url
       };
     });
+  }
+
+  limitResults() {
+    this.searchResults = this.searchResults.slice(0, 10);
   }
 }

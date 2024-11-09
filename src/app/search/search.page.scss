@@ -15,4 +15,9 @@ ion-item {
 ion-button {
   max-width: 200px;
   width: 100%;
+  --background: #e32629;
+  text-transform: none;
+}
+ion-content {
+  --background: #f4f4f4;
 }
