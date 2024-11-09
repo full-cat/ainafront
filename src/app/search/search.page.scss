@@ -21,3 +21,18 @@ ion-button {
 ion-content {
   --background: #f4f4f4;
 }
+
+.container {
+  display: flex;
+  width: 100%;
+}
+
+.left-div {
+  flex: 1; /* Ocupa el espacio restante */
+  background-color: lightblue;
+}
+
+.right-div {
+  width: 30px; /* Ocupa 30px de ancho */
+  background-color: lightcoral;
+}
