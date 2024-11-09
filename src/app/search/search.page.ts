@@ -23,21 +23,8 @@ export class SearchPage {
 
     // after 2 requests are done
     forkJoin([x1, x2]).subscribe(results => {
-      // console.log('Búsqueda realizada:', this.searchQuery);
-      // console.log('Resultados:', results[0]);
-      // console.log('Chatbot:', results[1]);
       this.router.navigate(['/results'], {state: {data: results[1], chatbot: results[0], query: this.searchQuery}});
     });
-    // this.braveService.search(this.searchQuery).subscribe((response: any) => {
-    //     console.log('Búsqueda realizada:', this.searchQuery);
-    //     console.log('Resultados:', response);
-    //     this.router.navigate(['/results'], {state: {data: response}});
-    //   }
-    // );
-
-  }
-
-  onVoiceSearch() {
 
   }
 }

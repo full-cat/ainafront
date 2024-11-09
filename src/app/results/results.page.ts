@@ -21,10 +21,8 @@ export class ResultsPage {
   ngOnInit() {
     const extras = history.state;
     if (extras && extras.data) {
-      // load searchResults from extras.data
       this.parseResults(extras.data);
       this.limitResults()
-      console.log('query:', extras.query);
       this.searchQuery = extras.query;
       this.chatbotResponse = extras.chatbot["response"];
     }
@@ -32,9 +30,6 @@ export class ResultsPage {
 
   onSearch() {
     this.searchService.search(this.searchQuery).subscribe((response: any) => {
-      // console.log('Búsqueda realizada:', this.searchQuery);
-      // console.log('Resultados:', response);
-
       this.parseResults(response);
       this.limitResults()
 
@@ -72,7 +67,6 @@ export class ResultsPage {
   onRetry() {
     this.aiService.queryChatbot(this.searchQuery).subscribe((response: any) => {
         this.chatbotResponse = response["response"];
-        console.log('Chatbot:', response);
       }
     );
   }

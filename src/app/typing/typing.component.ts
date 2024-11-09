@@ -8,16 +8,9 @@ import {Component, Input, OnInit} from '@angular/core';
 })
 export class TypingComponent  implements OnInit {
 
-  // lorem de 100 palabras
-  // textToShow = "Lorem ipsum dolor sit amet consectetur adipiscing elit sed do eiusmod " +
-  //   "tempor incididunt ut labore et dolore magna aliqua ut enim ad minim veniam quis nostrud " +
-  //   "exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat duis aute irure " +
-  //   "dolor in reprehenderit voluptate velit esse cillum dolore fugiat nulla pariatur excepteur" +
-  //   " sint occaecat cupidatat non proident sunt culpa qui officia deserunt mollit anim id" +
-  //   " est laborum";
   displayedText = '';
   currentIndex = 0;
-  typingSpeed = 30; // velocidad en ms entre cada letra
+  typingSpeed = 30;
 
   @Input() textToShow: string = '';
 
@@ -25,12 +18,10 @@ export class TypingComponent  implements OnInit {
     this.typeText();
   }
 
-  // detect changes on textToShow and reset the typing
   ngOnChanges() {
     this.displayedText = '';
     this.currentIndex = 0;
     this.typeText();
-    console.log("jhello")
   }
 
   typeText() {

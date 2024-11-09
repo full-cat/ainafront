@@ -57,27 +57,22 @@ export class AudioComponent implements OnInit {
         const audioBlob = new Blob(this.audioChunks, {type: 'audio/webm'});
         const arrayBuffer = await audioBlob.arrayBuffer();
 
-        //download audioblob
-        const downloadUrl = URL.createObjectURL(audioBlob);
-        const a = document.createElement('a');
-        a.href = downloadUrl;
-        a.download = 'grabacion.webm';
-        document.body.appendChild(a);
-        a.click();
-        document.body.removeChild(a);
-        URL.revokeObjectURL(downloadUrl); // Libera el objeto URL
+        // COMMENTED OUT: This code is used to download the audio file
+        // const downloadUrl = URL.createObjectURL(audioBlob);
+        // const a = document.createElement('a');
+        // a.href = downloadUrl;
+        // a.download = 'grabacion.webm';
+        // document.body.appendChild(a);
+        // a.click();
+        // document.body.removeChild(a);
+        // URL.revokeObjectURL(downloadUrl);
 
         this.aiService.querySound(audioBlob).subscribe((response: any) => {
             response = response['response']
-            console.log('Audio response:', response);
             let x2 = this.braveService.search(response);
             let x1 = this.aiService.queryChatbot(response);
             forkJoin([x1, x2]).subscribe(results => {
-              console.log('Búsqueda realizada:', response);
-              console.log('Resultados:', results[1]);
-              console.log('Chatbot:', results[0]);
               this.router.navigate(['/results'], {state: {data: results[1], chatbot: results[0], query: response}});
-
             });
           }
         );
