@@ -1,5 +1,6 @@
 import {Component} from '@angular/core';
 import {BraveService} from "../brave.service";
+import {AiService} from "../ai.service";
 
 @Component({
   selector: 'app-results',
@@ -9,9 +10,11 @@ import {BraveService} from "../brave.service";
 export class ResultsPage {
   searchQuery: string = '';
   searchResults: any[] = [];
+  chatbotResponse = ''
 
   constructor(
     private searchService: BraveService,
+    private aiService: AiService
   ) {
   }
 
@@ -21,13 +24,16 @@ export class ResultsPage {
       // load searchResults from extras.data
       this.parseResults(extras.data);
       this.limitResults()
+      console.log('query:', extras.query);
+      this.searchQuery = extras.query;
+      this.chatbotResponse = extras.chatbot["response"];
     }
   }
 
   onSearch() {
     this.searchService.search(this.searchQuery).subscribe((response: any) => {
-      console.log('Búsqueda realizada:', this.searchQuery);
-      console.log('Resultados:', response);
+      // console.log('Búsqueda realizada:', this.searchQuery);
+      // console.log('Resultados:', response);
 
       this.parseResults(response);
       this.limitResults()
@@ -61,5 +67,13 @@ export class ResultsPage {
 
   limitResults() {
     this.searchResults = this.searchResults.slice(0, 10);
+  }
+
+  onRetry() {
+    this.aiService.queryChatbot(this.searchQuery).subscribe((response: any) => {
+        this.chatbotResponse = response["response"];
+        console.log('Chatbot:', response);
+      }
+    );
   }
 }
